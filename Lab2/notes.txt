@@ -1,0 +1,17 @@
+преобразовать TAX CLASS AT PRESENT в 4 класса, убрать ' '
+
+убрать BLOCK                           
+
+убрать LOT
+
+(+) убрать ' ' из BUILDING CLASS AT PRESENT
+
+(+) убрать номер квартиры из ADDRESS
+
+убрать Zip Code
+
+(+-)подумать над Sale Date
+
+(+) убрать строки с Sale Price = 0
+
+убрать из всех string = ' '
